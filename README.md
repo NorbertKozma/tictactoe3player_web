@@ -9,7 +9,7 @@ Az elkészült projektben vizsgálni tudjuk a Paranoid, Maxn^n, BRS és az MP-mi
 Játszhatunk két gépi ellenfél ellen, vagy akár versenyeztethetjük is egymás ellen a döntési szabályokat. Teszt játékmódban pedig egy tetszőleges csomópontot hozhatunk létre, amin célzottan vizsgálhatjuk az egyes stratégiák működését.
 
 
-#### Technológiák
+### Technológiák
 
 ## Frontend
 
